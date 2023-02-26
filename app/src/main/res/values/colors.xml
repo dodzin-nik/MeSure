@@ -12,4 +12,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="red">#de3e34</color>
     <color name="yellow">#ffeb3b</color>
+    <color name="blue_200">#66c0c0</color>
+    <color name="blue_500">#5ce1e6</color>
+    <color name="blue_700">#133bfc</color>
 </resources>
