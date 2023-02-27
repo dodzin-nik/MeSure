@@ -10,17 +10,9 @@
     <integer-array name="id">
         <item>0</item>
         <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
     </integer-array>
 
     <string-array name="name">
-        <item>Placeholder</item>
-        <item>Placeholder</item>
-        <item>Placeholder</item>
-        <item>Placeholder</item>
         <item>Placeholder</item>
         <item>Placeholder</item>
     </string-array>
@@ -28,26 +20,15 @@
     <string-array name="date">
         <item>Placeholder</item>
         <item>Placeholder</item>
-        <item>Placeholder</item>
-        <item>Placeholder</item>
-        <item>Placeholder</item>
-        <item>Placeholder</item>
+
     </string-array>
 
     <string-array name="rating">
         <item>4.4</item>
         <item>4.3</item>
-        <item>4.8</item>
-        <item>4.8</item>
-        <item>4.4</item>
-        <item>4.8</item>
     </string-array>
 
     <string-array name="description">
-        <item>Placeholder</item>
-        <item>Placeholder</item>
-        <item>Placeholder</item>
-        <item>Placeholder</item>
         <item>Placeholder</item>
         <item>Placeholder</item>
     </string-array>
@@ -55,9 +36,5 @@
     <string-array name="url">
         <item>https://i.ibb.co/zQN0PyJ/happiness-bargain-clinic-bed-equipment-1.jpg</item>
         <item>https://i.ibb.co/cYwMy98/hands-of-unrecognizable-female-doctor-writing-on-form-and-typing-on-laptop-keyboard-1.jpg</item>
-        <item>https://ae01.alicdn.com/kf/HTB1AD_jbffsK1RjSszbq6AqBXXaf/Skyrim-Dragonborn-SILK-POSTER-Decorative-Wall-painting-24x36inch.jpg</item>
-        <item>https://img.elo7.com.br/product/zoom/279CDFA/big-poster-game-the-witcher-3-lo08-tamanho-90x60-cm-geek.jpg</item>
-        <item>https://picfiles.alphacoders.com/198/thumb-198634.jpg</item>
-        <item>https://pbs.twimg.com/media/E-3-vUGXMAEMriL.jpg</item>
     </string-array>
 </resources>
