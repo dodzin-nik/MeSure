@@ -15,14 +15,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <ImageView
-            android:id="@+id/posterImageView"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:scaleType="fitStart"
-            app:srcCompat="@drawable/doctor"
-            android:contentDescription="@string/all" />
-
         <View
             android:id="@+id/view"
             android:layout_width="match_parent"

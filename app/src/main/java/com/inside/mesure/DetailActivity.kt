@@ -23,16 +23,12 @@ class DetailActivity : AppCompatActivity() {
         val dateTextView: TextView = findViewById(R.id.dateTextView)
         val ratingTextView: TextView = findViewById(R.id.ratingTextView)
         val descriptionTextView: TextView = findViewById(R.id.descriptionTextView)
-        val posterImageView: ImageView = findViewById(R.id.posterImageView)
 
         nameTextView.text = resources.getStringArray(R.array.name)[idMeSure]
         dateTextView.text = resources.getStringArray(R.array.date)[idMeSure]
         ratingTextView.text = resources.getStringArray(R.array.rating)[idMeSure]
         descriptionTextView.text = resources.getStringArray(R.array.description)[idMeSure]
 
-        Glide.with(this)
-            .load(resources.getStringArray(R.array.url)[idMeSure])
-            .into(posterImageView)
     }
 
     private fun fullScreen() {
