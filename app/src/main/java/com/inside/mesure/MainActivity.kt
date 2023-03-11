@@ -9,6 +9,9 @@ import android.widget.FrameLayout
 import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
+import com.chaquo.python.PyException
+import com.chaquo.python.Python
+import com.chaquo.python.android.AndroidPlatform
 
 class MainActivity : AppCompatActivity() {
 
